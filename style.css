@@ -1,0 +1,119 @@
+* {
+  
+    margin: 0;
+    padding: 0;
+  }
+
+#body {
+    height: 600px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1em;
+    line-height: 1.5em;
+    
+  }
+    
+.button1 {
+    background-color: #79b6c9;
+    border-color: #79b6c9 ;
+    border-radius: 10px;
+    font-family: "Helvetica", Times, serif;
+    font-weight: bold;
+    font-size: 10px;
+    padding: 5px 10px;
+    
+}
+
+.login {
+    text-align: center;
+    padding-top: 250px;
+    font-family: "Helvetica", Times, serif;    
+}
+
+#usuario{
+    text-align: center;
+    margin: 5px;
+    border-radius: 50px;
+    font-family: "Helvetica", Times, serif;
+    font-weight: bold;
+
+}
+
+#password{
+    text-align: center;
+    border-radius: 50px;
+    font-family: "Helvetica", Times, serif;
+    font-weight: bold;
+}
+
+#cadastro_{
+    margin: 5px;
+    font-family: "Helvetica", Times, serif;
+    font-size: small;
+    font-weight: bold;
+}
+
+#cadastro{
+    margin: 5px;
+    text-align: center;
+    width: 250px;
+    text-align: center;
+    border-radius: 50px;
+    font-family: "Helvetica", Times, serif;
+    font-size: small;
+    font-weight: bold;
+}
+
+#cadastro1{
+    margin: 5px;
+    text-align: center;    
+    width: 80px;
+    text-align: center;
+    border-radius: 50px;
+    font-family: "Helvetica", Times, serif;
+    font-size: small;
+    font-weight: bold;
+}
+
+#cadastro2{
+    margin: 5px;
+    text-align: center;    
+    width: 150px;
+    text-align: center;
+    border-radius: 50px;
+    font-family: "Helvetica", Times, serif;
+    font-size: small;
+    font-weight: bold;
+}
+
+#cadastro3{
+    margin: 5px;
+    text-align: center;    
+    width: 30px;
+    text-align: center;
+    border-radius: 50px;
+    font-family: "Helvetica", Times, serif;
+    font-size: small;
+    font-weight: bold;
+}
+
+#cadastro4{
+    margin: 5px;
+    text-align: center;    
+    width: 30px;
+    text-align: center;
+    border-radius: 50px;
+    font-family: "Helvetica", Times, serif;
+    font-size: small;
+    font-weight: bold;
+}
+
+.cad{
+        margin: 5px;
+        text-align: center;    
+        width: 250px;
+        text-align: center;
+        border-radius: 50px;
+        font-family: "Helvetica", Times, serif;
+        font-size: small;
+        font-weight: bold;    
+}
