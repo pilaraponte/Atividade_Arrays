@@ -10,6 +10,8 @@ function cadastro(){
         usuario.push(nome)
         password.push(senha)
 
+        alert('Usuário cadastrado com sucesso!')
+
     } else {
         alert('Preencha todos os campos!')
     }
